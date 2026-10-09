@@ -1,0 +1,19 @@
+Machine learning projects of this course must use Python and the following libraries to pass through JupyterLab:
+* pandas
+* numpy
+* sklearn
+* scipy
+* statsmodels
+* matplotlib
+* seaborn
+* optuna
+* lightgbm
+* catboost
+* umap
+* torch
+* annoy
+* nmslib
+
+Before you can use JupyterLab and Jupyter Notebook, you need to install the libraries yourself on your account using the pip install command. All libraries are installed from the browser console window using the jupyterlab command.
+
+Note that this file is not suitable as pip requirements.txt. 
